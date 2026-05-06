@@ -1,0 +1,26 @@
+state,area_name,attribute,value
+NY,MANHATTAN,Unemployment_rate_2020,3.21
+NY,MANHATTAN,Unemployment_rate_2021,6.04
+NY,MANHATTAN,Unemployment_rate_2022,4.94
+NY,MANHATTAN,Unemployment_rate_2023,9.09
+NY,MANHATTAN,Unemployment_rate_2024,7.23
+NY,BROOKLYN,Unemployment_rate_2020,7.3
+NY,BROOKLYN,Unemployment_rate_2021,6.72
+NY,BROOKLYN,Unemployment_rate_2022,3.64
+NY,BROOKLYN,Unemployment_rate_2023,6.12
+NY,BROOKLYN,Unemployment_rate_2024,10
+NY,BRONX,Unemployment_rate_2020,8.85
+NY,BRONX,Unemployment_rate_2021,9.25
+NY,BRONX,Unemployment_rate_2022,8.76
+NY,BRONX,Unemployment_rate_2023,3.72
+NY,BRONX,Unemployment_rate_2024,4.59
+NY,QUEENS,Unemployment_rate_2020,3.02
+NY,QUEENS,Unemployment_rate_2021,5.12
+NY,QUEENS,Unemployment_rate_2022,3.76
+NY,QUEENS,Unemployment_rate_2023,6.31
+NY,QUEENS,Unemployment_rate_2024,7.74
+NY,STATEN ISLAND,Unemployment_rate_2020,9.12
+NY,STATEN ISLAND,Unemployment_rate_2021,8.24
+NY,STATEN ISLAND,Unemployment_rate_2022,9.57
+NY,STATEN ISLAND,Unemployment_rate_2023,3.38
+NY,STATEN ISLAND,Unemployment_rate_2024,3.09
